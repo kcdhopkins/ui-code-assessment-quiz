@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+input[type^='submit']{
+    background-color: rgb(30 , 120, 221);;
+    color: white; 
+    border: none;
+    padding: 10px 20px 10px 20px;
+    margin-top: 30px;
+}
+
+label{
+    font-size: small;
+}
